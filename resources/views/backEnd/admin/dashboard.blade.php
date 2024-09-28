@@ -106,7 +106,7 @@
         <!-- end row-->
 
 
-        <div class="row">
+        {{-- <div class="row">
             <div class="col-xl-6">
                 <div class="card">
                     <div class="card-body">
@@ -230,7 +230,7 @@
                     </div>
                 </div> <!-- end card-->
             </div> <!-- end col -->
-        </div>
+        </div> --}}
         <!-- end row -->
 
     </div> <!-- container -->
